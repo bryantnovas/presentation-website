@@ -1,0 +1,15 @@
+{
+  "name": "presentation_website",
+  "version": "1.0.0",
+  "description": "This is a mock website that emulates the behavior of a powerpoint presentation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryant Novas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
