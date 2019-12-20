@@ -9,4 +9,5 @@ other features used:
 - CSS3 Flexbox
 - JQuery Smooth Scrolling
 - CSS3 Animations using Keyframes
-[Live Demo]['https://glacial-meadow-56245.herokuapp.com/']
+
+[Live Demo](https://glacial-meadow-56245.herokuapp.com/)
